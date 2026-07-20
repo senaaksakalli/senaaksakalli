@@ -1,7 +1,7 @@
 #   Ben Sena Aksakallı 👋
 
 
-Kırşehir Ahi Evran Üniversitesi **Bilgisayar Mühendisliği** bölümünden bölüm ikincisi olarak mezun oldum. Yazılım dünyasında özellikle **Görüntü İşleme, Siber Güvenlik ve Backend Geliştirme** alanlarına odaklanıyorum. Akademik bilgilerimi gerçek hayat projeleriyle birleştirmeyi seviyorum.
+Kırşehir Ahi Evran Üniversitesi **Bilgisayar Mühendisliği** bölümünden bölüm ikincisi olarak mezun oldum. Akademik bilgilerimi gerçek hayat projeleriyle birleştirmeyi seviyorum.
 
 * 🎓 **Kırşehir Ahi Evran Üniversitesi** - Bilgisayar Mühendisliği 
 * 🚀 Şu an aktif olarak **IoT tabanlı Hava Kalitesi İzleme** ve **Görüntü İşleme** projeleri üzerinde çalışıyorum.
